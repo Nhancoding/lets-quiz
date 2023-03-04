@@ -1,3 +1,7 @@
+* {
+    background-color: salmon;
+}
+
 .is-hidden {
     display: none;
 }
